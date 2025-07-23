@@ -11,7 +11,7 @@ export default function Home() {
          <span className="text-yellow-200 text-xl my-4">Join 70M+ people using Linktree for their link in bio. One link to help you share everything you create, curate and sell from your Instagram, TikTok, Twitter, YouTube and other social media profiles.</span>
          
          <div className="input flex gap-2">
-          <input className="px-2 py-2 rounded-md focus:outline-lime-600 bg-white " type="text" placeholder="branchtr.ee/your-url" />
+          <input className="px-2 py-2 rounded-md focus:outline-lime-600 bg-white " type="text" placeholder="branchify.ee/your-url" />
           <button className="bg-rose-200 text-black font-semibold rounded-md px-4 py-4">Get your link-branch</button>
          </div>
         </div>
