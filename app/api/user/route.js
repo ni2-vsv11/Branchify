@@ -1,4 +1,3 @@
-// app/api/create-user/route.js
 import { connectToDatabase } from "@/lib/mongodb";
 
 export async function GET() {
